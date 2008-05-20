@@ -18,8 +18,8 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
-   sodipodi:docbase="/home/tux/Desktop"
-   sodipodi:docname="plugin-regex.svg"
+   sodipodi:docbase="/home/tux/Sources/compiz-fusion-icons"
+   sodipodi:docname="plugin-ghost.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0">
   <defs
@@ -787,15 +787,15 @@
      inkscape:zoom="1"
      inkscape:cx="23.759037"
      inkscape:cy="31.139606"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g15379"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1280"
+     inkscape:window-width="969"
      inkscape:window-height="710"
-     inkscape:window-x="87"
-     inkscape:window-y="94"
+     inkscape:window-x="98"
+     inkscape:window-y="111"
      showguides="true"
      inkscape:guide-bbox="true"
      showborder="true"
@@ -905,7 +905,7 @@
            ry="1.5660769" />
       </g>
       <g
-         style="opacity:0.7871287"
+         style="opacity:0.687"
          transform="matrix(1.9965337,0,0,1.9965337,-4.0625012,-39.251297)"
          id="g2222">
         <g
