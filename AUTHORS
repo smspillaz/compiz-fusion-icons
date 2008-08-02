@@ -4,24 +4,32 @@
    * Anaglpyh
    * Basicblur (based of blur plugin)
    * CubeDBUS (A.k.a CubeFX) (based on cube)
+   * Dodge
+   * Elements
    * Fireflies
    * Freewins (Based on shift)
+   * Grid
    * Maze (Based on cube)
    * Mousegestures (Based on mswitch)
+   * Newton
    * Photowheel (Based on cube)
+   * Prompt
+   * Showrepaint
    * Snowglobe (Based on cube)
    * Star
    * Static (Based on cube)
+   * Staticswitcher
    * Wiimote (Based on WiiTrack)
+   * Workspacenames
   by Sam Spilsbury (SmSpillaz)
  * Icons for:
-   * Mousetrails (based on mswitch)
-   * Ghost (based on regex and mousepoll)
-   * DesktopClick (based on fadedesktop and mswitch)
    * Animations Plus (based on animation)
-   * Dialog (based on addhelper)
-   * Wizard
    * CubeModel (based on cubedbus)
+   * DesktopClick (based on fadedesktop and mswitch)
+   * Dialog (based on addhelper)
+   * Ghost (based on regex and mousepoll)
+   * Mousetrails (based on mswitch)
+   * Wizard
   by some-guy
  * Installer by some-guy (Thanks!)
  * WiiTrack Icon by Kevin Lange
