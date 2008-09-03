@@ -379,18 +379,120 @@
        fy="125"
        r="14.375" />
     <linearGradient
+       id="linearGradient3338">
+      <stop
+         style="stop-color: rgb(238, 238, 236); stop-opacity: 1;"
+         offset="0"
+         id="stop3340" />
+      <stop
+         id="stop3346"
+         offset="0.78888887"
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;" />
+      <stop
+         style="stop-color: rgb(238, 238, 236); stop-opacity: 1;"
+         offset="1"
+         id="stop3342" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3179"
-       id="linearGradient6363"
+       id="linearGradient3339">
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
+         offset="0"
+         id="stop3341" />
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
+         offset="1"
+         id="stop3343" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3251">
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
+         offset="0"
+         id="stop3253" />
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
+         offset="1"
+         id="stop3255" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3241">
+      <stop
+         style="stop-color: rgb(27, 31, 32); stop-opacity: 1;"
+         offset="0"
+         id="stop3243" />
+      <stop
+         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
+         offset="1"
+         id="stop3245" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3220">
+      <stop
+         style="stop-color:#2e3436;stop-opacity:0;"
+         offset="0"
+         id="stop3222" />
+      <stop
+         id="stop3228"
+         offset="0.64444447"
+         style="stop-color: rgb(136, 138, 133); stop-opacity: 1;" />
+      <stop
+         style="stop-color:#555753;stop-opacity:0;"
+         offset="1"
+         id="stop3224" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective2660"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 24 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3251"
+       id="radialGradient2750"
        gradientUnits="userSpaceOnUse"
-       x1="162.69318"
-       y1="608.16638"
-       x2="186.9221"
-       y2="610.64124" />
+       cx="32.5"
+       cy="16.5625"
+       fx="32.5"
+       fy="16.5625"
+       r="14.4375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3339"
+       id="linearGradient2773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(174.61911,663.10601)"
+       x1="31"
+       y1="12.875"
+       x2="3.2591991"
+       y2="24.893845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3220"
+       id="linearGradient3560"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(181.3567,675.60956)"
+       x1="42.90625"
+       y1="42.21875"
+       x2="44.8125"
+       y2="41.40625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3338"
+       id="linearGradient3562"
+       gradientUnits="userSpaceOnUse"
+       x1="31.994286"
+       y1="16.859249"
+       x2="37.723743"
+       y2="16.859249" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12512"
-       id="radialGradient6365"
+       id="radialGradient3564"
        gradientUnits="userSpaceOnUse"
        cx="55"
        cy="125"
@@ -400,7 +502,7 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12512"
-       id="radialGradient6367"
+       id="radialGradient3566"
        gradientUnits="userSpaceOnUse"
        cx="55"
        cy="125"
@@ -410,7 +512,7 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12512"
-       id="radialGradient6369"
+       id="radialGradient3568"
        gradientUnits="userSpaceOnUse"
        cx="55"
        cy="125"
@@ -420,7 +522,7 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12512"
-       id="radialGradient6371"
+       id="radialGradient3570"
        gradientUnits="userSpaceOnUse"
        cx="55"
        cy="125"
@@ -430,7 +532,7 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12512"
-       id="radialGradient6373"
+       id="radialGradient3572"
        gradientUnits="userSpaceOnUse"
        cx="55"
        cy="125"
@@ -448,16 +550,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.5820519"
-     inkscape:cx="37.71298"
-     inkscape:cy="26.575518"
+     inkscape:zoom="3.9880822"
+     inkscape:cx="56.084705"
+     inkscape:cy="44.319692"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1044"
      inkscape:window-height="700"
-     inkscape:window-x="13"
-     inkscape:window-y="48" />
+     inkscape:window-x="26"
+     inkscape:window-y="71" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -475,87 +577,106 @@
      id="layer1"
      transform="translate(-85.263218,-634.16015)">
     <g
-       id="g6353"
-       transform="matrix(0.1893061,0,0,0.1893061,72.322371,572.47974)">
-      <g
-         transform="matrix(0.7956148,0.6058028,-0.6058028,0.7956148,400.92596,2.8735289)"
-         id="g3187">
-        <path
-           style="fill:url(#linearGradient6363);fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:7.91599989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 164.88995,726.71756 C 164.39405,743.02097 192.24472,742.86095 192.51005,726.71756 L 178.7,402.49425 L 164.88995,726.71756 z"
-           id="path2385"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="opacity:1;fill:#eeeeec;fill-opacity:0.16756759;fill-rule:evenodd;stroke:none;stroke-width:7.91599989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 168.83203,727.13809 C 168.52995,730.95534 171.63879,734.95317 178.48047,734.92969 C 185.32218,734.9062 188.67073,730.70421 188.55297,726.75162 L 178.69976,495.49199 L 168.83203,727.13809 z M 178.6875,595.15625 L 180.5625,726.46875 C 180.14378,726.65144 179.30997,726.90048 178.375,726.90625 C 177.61334,726.91095 177.22722,726.74656 176.84375,726.625 L 178.6875,595.15625 z"
-           id="path3157"
-           sodipodi:nodetypes="czcccccscc" />
-      </g>
+       style="display:none"
+       transform="translate(226.08871,673.67201)"
+       inkscape:label="Shadow"
+       id="g2611" />
+    <g
+       transform="translate(226.08871,673.67201)"
+       style="display:none"
+       inkscape:label="Lavoro"
+       id="g2613" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6537"
+       d="M 174.99406,685.35601 C 202.23566,687.08356 185.06786,671.35707 206.11906,670.85601 L 211.40828,681.97105 C 201.80181,677.49174 195.23074,700.50404 174.86906,686.98101 L 174.99406,685.35601 z"
+       style="opacity:0.44444401;fill:url(#linearGradient2773);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <g
+       id="g3545"
+       transform="matrix(1.5574548,-0.267564,0.267564,1.5574548,-401.29605,-362.24832)">
       <path
-         inkscape:export-ydpi="33.852203"
-         inkscape:export-xdpi="33.852203"
-         inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
-         transform="matrix(2.2755709,0,0,2.2755709,273.60903,138.2862)"
-         d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
-         sodipodi:ry="14.375"
-         sodipodi:rx="14.375"
-         sodipodi:cy="125"
-         sodipodi:cx="55"
-         id="path6317"
-         style="fill:url(#radialGradient6365);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
-         sodipodi:type="arc" />
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 213.85665,692.10956 L 226.85665,721.10956"
+         id="path6541"
+         sodipodi:nodetypes="cc" />
       <path
-         inkscape:export-ydpi="33.852203"
-         inkscape:export-xdpi="33.852203"
-         inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
-         transform="matrix(2.2755709,0,0,2.2755709,253.85594,221.00225)"
-         d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
-         sodipodi:ry="14.375"
-         sodipodi:rx="14.375"
-         sodipodi:cy="125"
-         sodipodi:cx="55"
-         id="path6325"
-         style="fill:url(#radialGradient6367);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
-         sodipodi:type="arc" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3560);stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 213.85665,692.10956 L 226.85665,721.10956"
+         id="path6543"
+         sodipodi:nodetypes="cc" />
       <path
-         inkscape:export-ydpi="33.852203"
-         inkscape:export-xdpi="33.852203"
-         inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
-         transform="matrix(2.2755709,0,0,2.2755709,171.1399,148.16274)"
-         d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
-         sodipodi:ry="14.375"
-         sodipodi:rx="14.375"
-         sodipodi:cy="125"
-         sodipodi:cx="55"
-         id="path6329"
-         style="fill:url(#radialGradient6369);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
-         sodipodi:type="arc" />
-      <path
-         inkscape:export-ydpi="33.852203"
-         inkscape:export-xdpi="33.852203"
-         inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
-         transform="matrix(2.2755709,0,0,2.2755709,100.76952,95.07631)"
-         d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
-         sodipodi:ry="14.375"
-         sodipodi:rx="14.375"
-         sodipodi:cy="125"
-         sodipodi:cx="55"
-         id="path6337"
-         style="fill:url(#radialGradient6371);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
-         sodipodi:type="arc" />
-      <path
-         inkscape:export-ydpi="33.852203"
-         inkscape:export-xdpi="33.852203"
-         inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
-         transform="matrix(2.2755709,0,0,2.2755709,198.30038,74.088664)"
-         d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
-         sodipodi:ry="14.375"
-         sodipodi:rx="14.375"
-         sodipodi:cy="125"
-         sodipodi:cx="55"
-         id="path6349"
-         style="fill:url(#radialGradient6373);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
-         sodipodi:type="arc" />
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0.026945664"
+         inkscape:original="M 33.125 11.96875 C 33.008736 11.954002 32.901006 11.971586 32.78125 12 C 32.489313 12.073339 32.252292 12.289732 32.125 12.5625 C 31.997708 12.835268 31.993687 13.135395 32.125 13.40625 L 35.875 21.75 C 36.112714 21.338591 36.476318 21.053356 36.9375 20.9375 C 37.190796 20.877401 37.445043 20.885783 37.6875 20.9375 L 33.9375 12.59375 C 33.797448 12.252099 33.473792 12.012993 33.125 11.96875 z "
+         style="fill:url(#linearGradient3562);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="path6551"
+         d="M 32.9375,11.9375 C 32.879389,11.943775 32.841679,11.954412 32.78125,11.96875 C 32.480508,12.044301 32.224153,12.283065 32.09375,12.5625 C 31.963347,12.841935 31.958934,13.12817 32.09375,13.40625 L 35.84375,21.75 C 35.837094,21.759353 35.837094,21.771897 35.84375,21.78125 C 35.853103,21.787906 35.865647,21.787906 35.875,21.78125 C 35.884353,21.787906 35.896897,21.787906 35.90625,21.78125 C 35.912906,21.771897 35.912906,21.759353 35.90625,21.75 C 36.140708,21.344226 36.483208,21.082875 36.9375,20.96875 C 37.186308,20.909716 37.448221,20.917711 37.6875,20.96875 C 37.696853,20.975406 37.709397,20.975406 37.71875,20.96875 C 37.725406,20.959397 37.725406,20.946853 37.71875,20.9375 L 33.96875,12.59375 C 33.824845,12.242701 33.483751,11.983006 33.125,11.9375 C 33.064511,11.929827 32.995611,11.931225 32.9375,11.9375 z"
+         transform="translate(180.8263,679.10956)" />
     </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3572);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="path6317"
+       sodipodi:cx="55"
+       sodipodi:cy="125"
+       sodipodi:rx="14.375"
+       sodipodi:ry="14.375"
+       d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
+       transform="matrix(0.1564628,-0.4013606,0.4013606,0.1564628,62.800269,644.79694)"
+       inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
+       inkscape:export-xdpi="33.852203"
+       inkscape:export-ydpi="33.852203" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3564);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="path6325"
+       sodipodi:cx="55"
+       sodipodi:cy="125"
+       sodipodi:rx="14.375"
+       sodipodi:ry="14.375"
+       d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
+       transform="matrix(0.1564628,-0.4013606,0.4013606,0.1564628,78.868261,660.35128)"
+       inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
+       inkscape:export-xdpi="33.852203"
+       inkscape:export-ydpi="33.852203" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3570);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="path6329"
+       sodipodi:cx="55"
+       sodipodi:cy="125"
+       sodipodi:rx="14.375"
+       sodipodi:ry="14.375"
+       d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
+       transform="matrix(0.1833371,-0.4702988,0.4702988,0.1833371,47.046768,660.79015)"
+       inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
+       inkscape:export-xdpi="33.852203"
+       inkscape:export-ydpi="33.852203" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3568);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="path6337"
+       sodipodi:cx="55"
+       sodipodi:cy="125"
+       sodipodi:rx="14.375"
+       sodipodi:ry="14.375"
+       d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
+       transform="matrix(0.1564628,-0.4013606,0.4013606,0.1564628,42.23114,673.02024)"
+       inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
+       inkscape:export-xdpi="33.852203"
+       inkscape:export-ydpi="33.852203" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3566);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000024;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="path6349"
+       sodipodi:cx="55"
+       sodipodi:cy="125"
+       sodipodi:rx="14.375"
+       sodipodi:ry="14.375"
+       d="M 69.375,125 A 14.375,14.375 0 1 1 40.625,125 A 14.375,14.375 0 1 1 69.375,125 z"
+       transform="matrix(0.1564628,-0.4013606,0.4013606,0.1564628,39.207,651.538)"
+       inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/stock_new-16.png"
+       inkscape:export-xdpi="33.852203"
+       inkscape:export-ydpi="33.852203" />
   </g>
 </svg>
