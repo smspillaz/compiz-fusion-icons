@@ -27,8 +27,10 @@
    * DesktopClick (based on fadedesktop and mswitch)
    * Dialog (based on addhelper)
    * Ghost (based on regex and mousepoll)
+   * Greenscreen (based on ghost and freewins)
    * LazyPointer (based on ghost and dodge)
    * Mousetrails (based on mswitch)
+   * Peek (based on thumbnail)
    * Swap (based on dodge)
    * Throw (based on dodge)
    * Wizard
