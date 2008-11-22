@@ -29,6 +29,7 @@
    * Ghost (based on regex and mousepoll)
    * LazyPointer (based on ghost and dodge)
    * Mousetrails (based on mswitch)
+   * Swap (based on dodge)
    * Throw (based on dodge)
    * Wizard
   by some-guy
