@@ -28,6 +28,7 @@
    * Dialog (based on addhelper)
    * Ghost (based on regex and mousepoll)
    * Greenscreen (based on ghost and freewins)
+   * Headtracking (based on wiitrack and a tango icon)
    * LazyPointer (based on ghost and dodge)
    * Mousetrails (based on mswitch)
    * Peek (based on thumbnail)
