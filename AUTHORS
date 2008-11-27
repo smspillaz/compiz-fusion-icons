@@ -30,10 +30,12 @@
    * Greenscreen (based on ghost and freewins)
    * Headtracking (based on wiitrack and a tango icon)
    * LazyPointer (based on ghost and dodge)
+   * Maximumizeplus (based on maximumize and earlier animationplus)
    * Mousetrails (based on mswitch)
    * Peek (based on thumbnail)
    * Swap (based on dodge)
    * Throw (based on dodge)
+   * Toggledeco (based on decoration)
    * Wizard
   by some-guy
  * Installer by some-guy (Thanks!)
