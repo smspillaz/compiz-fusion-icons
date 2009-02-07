@@ -8,6 +8,7 @@
    * Dodge
    * Elements
    * Fireflies
+   * Flash
    * Freewins (Based on shift)
    * Grid
    * Maze (Based on cube)
@@ -15,21 +16,26 @@
    * Newton
    * Photowheel (Based on cube)
    * Physics
-   * ShowRepaint (Based on wallpaper)
    * Prompt
-   * Showrepaint
+   * Rubik
+   * ShowRepaint (Based on wallpaper)
+   * Smartput
    * Snowglobe (Based on cube)
+   * Squeeze
    * Star
    * Static (Based on cube)
+   * Vigo
    * Wiimote (Based on WiiTrack)
    * Workspacenames
   by Sam Spilsbury (SmSpillaz)
  * Icons for:
    * Animations Plus (based on animation)
+   * Commands (based on tango gnome-terminal)
    * CubeModel (based on cubedbus)
    * DesktopClick (based on fadedesktop and mswitch)
    * Dialog (based on addhelper)
    * Ghost (based on regex and mousepoll)
+   * Gnomecompat (based on glib and workarounds)
    * Greenscreen (based on ghost and freewins)
    * Headtracking (based on wiitrack and a tango icon)
    * LazyPointer (based on ghost and dodge)
