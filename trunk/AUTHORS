@@ -57,7 +57,12 @@
  * Icons for:
    * Anaglyph
    * Commands (is terminal icon from oxygen)
+   * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
    * Freewins
+   * Grid
+   * LazyPointer
+   * Mousetrails
+   * Wizard (oxygen actions/tools-wizard)
   by some-guy
 ***********
