@@ -2,10 +2,10 @@
 # Simple script to find prefix and install icons. Use --prefix if you installed CCSM in somewhere other than /usr or /usr/local
 
 if (echo $@ | grep -e --help &>/dev/null); then
-	echo "Options:"
-	echo " --tango \t\t Install with the tango theme [default]"
-	echo " --oxygen \t\t Install with the oxygen theme [incomplete]"
-	echo " --prefix=PREFIX \t CCSM install prefix eg. /usr/local"
+	echo -e "Options:"
+	echo -e " --tango \t\t Install with the tango theme [default]"
+	echo -e " --oxygen \t\t Install with the oxygen theme [incomplete]"
+	echo -e " --prefix=PREFIX \t CCSM install prefix eg. /usr/local"
 	exit 8
 fi
 
