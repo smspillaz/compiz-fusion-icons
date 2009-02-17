@@ -59,6 +59,7 @@
    * Commands (is terminal icon from oxygen)
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
+   * Dodge
    * Freewins
    * Ghost
    * Grid
@@ -66,6 +67,7 @@
    * Mousetrails
    * Newton
    * Shadows
+   * Swap
    * Throw
    * Vigo
    * VisualEvent (oxygen devices/input-mouse)
