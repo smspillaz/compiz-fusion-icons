@@ -56,8 +56,10 @@
 ***OXYGEN
  * Most Icons were based on the oxygen icon theme
  * Icons for:
+   * 3D
    * Anaglyph
    * Commands (is terminal icon from oxygen)
+   * Cube
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
    * Dodge
@@ -71,6 +73,7 @@
    * Mousetrails
    * Newton
    * Putplus
+   * Rotate
    * Shadows
    * Showrepaint
    * Smartput
