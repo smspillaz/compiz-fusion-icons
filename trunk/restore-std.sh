@@ -20,7 +20,7 @@ else
 fi
 
 for img in `ls ccsm/images/scalable/apps/plugin-*`; do
-	install -m 644 ccsm/images/scalable/apps/$img $PREFIX
+	install -m 644 $img $PREFIX/share/ccsm/icons/hicolor/scalable/apps/
 done
 
 # build icon cahce
