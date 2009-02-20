@@ -60,6 +60,7 @@
    * Anaglyph
    * Commands (is terminal icon from oxygen)
    * Cube
+   * Cubemodel
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
    * Dodge
@@ -73,6 +74,7 @@
    * Mousegestures
    * Mousetrails
    * Newton
+   * Peek
    * Photowheel
    * Putplus
    * Rotate
