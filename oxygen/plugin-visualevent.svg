@@ -958,9 +958,9 @@
      inkscape:guide-bbox="true"
      width="128px"
      height="128px"
-     inkscape:zoom="1"
-     inkscape:cx="40.020522"
-     inkscape:cy="52.760561"
+     inkscape:zoom="0.71"
+     inkscape:cx="29.086945"
+     inkscape:cy="9.8668787"
      inkscape:window-x="59"
      inkscape:window-y="130"
      inkscape:current-layer="svg2"
@@ -1033,7 +1033,7 @@
     <path
        id="path2527"
        d="M 655.77963,271.82744 C 643.35784,287.63581 637.42356,315.13722 643.03125,338.84375 C 646.53266,340.9256 650.44331,342.09375 654.5625,342.09375 C 664.12743,342.09375 672.52105,335.82135 677.375,326.34375 L 677.375,272.61467 C 665.45828,270.3768 659.44939,271.52096 655.77963,271.82744 z"
-       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.75000000000000000"
+       style="fill:#37a42c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.68000000000000005"
        transform="matrix(0.8193107,0,0,0.682203,-490.22281,-181.49084)"
        sodipodi:nodetypes="ccsccc" />
     <rect
