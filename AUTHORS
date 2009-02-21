@@ -81,26 +81,37 @@
    * Maximumize
    * Maximumizeplus
    * Maze
+   * Minimize
    * Mousegestures
    * Mousetrails
+   * Move
+   * Negative
    * Newton
    * Peek
    * Photowheel
+   * Place
+   * Put
    * Putplus
    * Rotate
    * Rubik
    * Shadows
    * Showrepaint
    * Smartput
+   * Snow
    * Squeeze
    * Static
+   * Staticswitcher
    * Swap
+   * Switcher
    * Throw
+   * Thumbnail
+   * Tile
    * Toggledeco
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
    * Wiimote
    * Wiitrack
    * Wizard (oxygen actions/tools-wizard)
+   * Wobbly
   by some-guy
 ***********
