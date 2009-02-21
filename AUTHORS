@@ -63,6 +63,7 @@
    * Commands (is terminal icon from oxygen)
    * Crashhandler
    * Cube
+   * Cubeaddon
    * Cubemodel
    * Decoration
    * DesktopClick (based on oxygen cursor and oxygen desktop)
@@ -70,10 +71,12 @@
    * Dodge
    * Fade
    * Freewins
+   * Headtracking
    * Ghost
    * Greenscreen
    * Grid
    * LazyPointer
+   * Maximumize
    * Maximumizeplus
    * Maze
    * Mousegestures
@@ -87,8 +90,11 @@
    * Shadows
    * Showrepaint
    * Smartput
+   * Squeeze
+   * Static
    * Swap
    * Throw
+   * Toggledeco
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
    * Wiitrack
