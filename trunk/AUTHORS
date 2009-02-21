@@ -64,7 +64,9 @@
    * Crashhandler
    * Cube
    * Cubeaddon
+   * Cubedbus
    * Cubemodel
+   * Dbus
    * Decoration
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
@@ -97,6 +99,7 @@
    * Toggledeco
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
+   * Wiimote
    * Wiitrack
    * Wizard (oxygen actions/tools-wizard)
   by some-guy
