@@ -73,6 +73,7 @@
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
    * Dodge
+   * Elements
    * Fade
    * Fireflies
    * Freewins
@@ -113,6 +114,7 @@
    * Toggledeco
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
+   * Water
    * Wiimote
    * Wiitrack
    * Wizard (oxygen actions/tools-wizard)
