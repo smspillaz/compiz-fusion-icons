@@ -31,12 +31,10 @@
   by Sam Spilsbury (SmSpillaz)
  * Icons for:
    * Animations Plus (based on animation)
-   * Commands (based on tango gnome-terminal)
    * CubeModel (based on cubedbus)
    * DesktopClick (based on fadedesktop and mswitch)
    * Dialog (based on addhelper)
    * Ghost (based on regex and mousepoll)
-   * Gnomecompat (based on glib and workarounds)
    * Greenscreen (based on ghost and freewins)
    * Headtracking (based on wiitrack and a tango icon)
    * LazyPointer (based on ghost and dodge)
@@ -79,6 +77,8 @@
    * Freewins
    * Headtracking
    * Ghost
+   * Glib
+   * Gnomecompat
    * Greenscreen
    * Grid
    * LazyPointer
