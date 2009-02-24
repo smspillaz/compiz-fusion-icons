@@ -18,7 +18,7 @@
    * Photowheel (Based on cube)
    * Physics
    * Prompt
-   * Rubik
+   * ORIGINAL Rubik
    * ShowRepaint (Based on wallpaper)
    * Smartput
    * Snowglobe (Based on cube)
@@ -42,6 +42,7 @@
    * Mousetrails (based on mswitch)
    * Peek (based on thumbnail)
    * Putplus
+   * Rubik
    * Swap (based on dodge)
    * Throw (based on dodge)
    * Toggledeco (based on decoration)
@@ -94,6 +95,7 @@
    * Peek
    * Photowheel
    * Place
+   * Prompt
    * Put
    * Putplus
    * Rotate
