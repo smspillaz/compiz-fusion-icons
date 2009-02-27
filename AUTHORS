@@ -58,24 +58,30 @@
    * 3D
    * Addhelper
    * Anaglyph
-   * Animationsplus
+   * Animation
+   * Animationplus
    * Annotate
+   * Atlantis
    * Autumn
    * Commands (is terminal icon from oxygen)
+   * Core
    * Crashhandler
    * Cube
    * Cubeaddon
    * Cubedbus
    * Cubemodel
    * Dbus
+   * Debug (oxygen actions/tools-report-bug)
    * Decoration
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
    * Dodge
    * Elements
    * Fade
+   * Fadedesktop
    * Fireflies
    * Freewins
+   * FS
    * Headtracking
    * Ghost
    * Glib
