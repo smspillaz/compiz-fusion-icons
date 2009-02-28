@@ -22,7 +22,7 @@
    xml:space="preserve"
    sodipodi:version="0.32"
    inkscape:version="0.46"
-   sodipodi:docname="plugin-ghost.svg"
+   sodipodi:docname="plugin-opacify.svg"
    sodipodi:docbase="/home/kwwii/kdesvn/artwork/Oxygen/theme/svg/apps"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="overflow:visible"><defs
@@ -1494,9 +1494,9 @@
    id="base"
    inkscape:object-bbox="false"
    inkscape:object-points="false"
-   inkscape:zoom="4.2946429"
-   inkscape:cx="36.519227"
-   inkscape:cy="48.172829"
+   inkscape:zoom="3.0367711"
+   inkscape:cx="5.3199743"
+   inkscape:cy="31.102825"
    inkscape:window-x="93"
    inkscape:window-y="97"
    inkscape:current-layer="Livello_1"
@@ -4135,7 +4135,7 @@ ZiNW
 </i:pgf>
 <g
    id="g2540"
-   transform="matrix(0.8842669,0,0,0.8842669,14.813839,14.491533)"><g
+   transform="matrix(0.8316759,0,0,0.8316759,3.3267038e-8,-1.6122656)"><g
      transform="matrix(1.166574,0,0,1.180735,-9.4959124,-11.226425)"
      id="g1914">
 				<path
@@ -4176,7 +4176,7 @@ ZiNW
      style="fill:url(#radialGradient2554);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g><g
    style="opacity:0.76000001;overflow:visible"
    id="g2541"
-   transform="matrix(0.8842669,0,0,0.8842669,3.5370677e-8,0.2737713)"><g
+   transform="matrix(0.8316759,0,0,0.8316759,21.545485,23.756215)"><g
      transform="matrix(1.166574,0,0,1.180735,-9.4959124,-11.226425)"
      id="g2543">
 				<path
@@ -4215,7 +4215,7 @@ ZiNW
      width="113.0781"
      id="rect2561"
      style="fill:url(#radialGradient2565);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g><g
-   transform="matrix(2.203593,0,0,2.203593,44.889086,52.253588)"
+   transform="matrix(2.2061556,0,0,2.2061556,8.0453169,19.647754)"
    inkscape:label="Layer 1"
    id="layer1"><path
      style="opacity:0.72597866;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3484)"

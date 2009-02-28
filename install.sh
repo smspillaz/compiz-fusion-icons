@@ -29,8 +29,7 @@ done
 
 # install
 if (echo $@ | grep -e --oxygen &>/dev/null); then
-	LIST=`ls tango | grep plugin- | sed 's|plugin-|tango/plugin-|'`
-	LIST="$LIST `ls oxygen | grep plugin- | sed 's|plugin-|oxygen/plugin-|'`"
+	LIST=`ls oxygen | grep plugin- | sed 's|plugin-|oxygen/plugin-|'`
 else
 	LIST=`ls tango | grep plugin- | sed 's|plugin-|tango/plugin-|'`
 fi

@@ -83,6 +83,7 @@
    * Freewins
    * FS
    * Headtracking
+   * Gears
    * Ghost
    * Glib
    * Gnomecompat
@@ -98,15 +99,19 @@
    * Move
    * Negative
    * Newton
+   * Opacify
    * Peek
    * Photowheel
    * Place
    * Prompt
    * Put
    * Putplus
+   * Reflex
+   * Resizeinfo
    * Rotate
    * Rubik
    * Shadows
+   * Showdesktop
    * Showrepaint
    * Smartput
    * Snow
