@@ -63,6 +63,7 @@
    * Annotate
    * Atlantis
    * Autumn
+   * Bicubic
    * Commands (is terminal icon from oxygen)
    * Core
    * Crashhandler
@@ -91,6 +92,7 @@
    * Grid
    * Inotify
    * LazyPointer
+   * Loginout
    * Maximumize
    * Maximumizeplus
    * Maze
@@ -98,6 +100,7 @@
    * Mousegestures
    * Mousetrails
    * Move
+   * Mswitch
    * Negative
    * Newton
    * Opacify
