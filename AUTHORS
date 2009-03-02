@@ -63,7 +63,9 @@
    * Annotate
    * Atlantis
    * Autumn
+   * Basicblur
    * Bicubic
+   * Blur
    * Commands (is terminal icon from oxygen)
    * Core
    * Crashhandler
@@ -96,8 +98,10 @@
    * Maximumize
    * Maximumizeplus
    * Maze
+   * Mblur
    * Minimize
    * Mousegestures
+   * Mousepoll
    * Mousetrails
    * Move
    * Mswitch
