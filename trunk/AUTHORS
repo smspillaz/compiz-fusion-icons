@@ -92,7 +92,7 @@
    * Grid
    * Inotify
    * LazyPointer
-   * Loginout
+   * Loginout (oxygen actions/system-switch-user)
    * Maximumize
    * Maximumizeplus
    * Maze
