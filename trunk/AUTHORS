@@ -117,10 +117,12 @@
    * Reflex
    * Resize
    * Resizeinfo
+   * Ring
    * Rotate
    * Rubik
    * Shadows
    * Shelf
+   * Shift
    * Showdesktop
    * Showrepaint
    * Session
@@ -136,6 +138,7 @@
    * Thumbnail
    * Tile
    * Toggledeco
+   * Trailfocus
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
    * Water
