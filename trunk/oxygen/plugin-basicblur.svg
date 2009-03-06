@@ -26,7 +26,7 @@
    sodipodi:docbase="/home/kwwii/kdesvn/artwork/Oxygen/theme/svg/apps"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="overflow:visible"><sodipodi:namedview
-   inkscape:window-height="716"
+   inkscape:window-height="801"
    inkscape:window-width="1104"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
@@ -39,11 +39,11 @@
    id="base"
    inkscape:object-bbox="false"
    inkscape:object-points="false"
-   inkscape:zoom="6.073542"
-   inkscape:cx="37.750899"
-   inkscape:cy="39.38804"
+   inkscape:zoom="3.036771"
+   inkscape:cx="1.043081"
+   inkscape:cy="57.23236"
    inkscape:window-x="93"
-   inkscape:window-y="97"
+   inkscape:window-y="65"
    inkscape:current-layer="Livello_1"
    inkscape:object-paths="false"
    showgrid="false" /><defs
@@ -1439,6 +1439,14 @@
    gradientUnits="userSpaceOnUse"
    id="linearGradient2578"
    xlink:href="#linearGradient3311"
+   inkscape:collect="always" /><linearGradient
+   y2="2.1905284"
+   x2="82.806526"
+   y1="126.88438"
+   x1="18.339649"
+   gradientUnits="userSpaceOnUse"
+   id="linearGradient2574"
+   xlink:href="#linearGradient3311"
    inkscape:collect="always" /><radialGradient
    r="48.465927"
    fy="-19.845272"
@@ -1562,39 +1570,39 @@
      offset="1"
      style="stop-color:#EEEEEE"
      id="stop3053" /></linearGradient><filter
-   height="1.4578776"
-   y="-0.22893881"
-   width="1.1854679"
-   x="-0.092733963"
-   id="filter3831"
+   height="1.8325048"
+   y="-0.41625238"
+   width="1.3372144"
+   x="-0.16860721"
+   id="filter3395"
    inkscape:collect="always"><feGaussianBlur
-     id="feGaussianBlur3833"
-     stdDeviation="2.6602015"
+     id="feGaussianBlur3397"
+     stdDeviation="4.8367301"
      inkscape:collect="always" /></filter><linearGradient
    y2="2.1905284"
    x2="82.806526"
    y1="126.88438"
    x1="18.339649"
    gradientUnits="userSpaceOnUse"
-   id="linearGradient2574-847"
-   xlink:href="#linearGradient3311-958"
+   id="linearGradient2574-320"
+   xlink:href="#linearGradient3311-930"
    inkscape:collect="always" /><linearGradient
-   id="linearGradient3311-958"><stop
-     id="stop2773"
+   id="linearGradient3311-930"><stop
+     id="stop3591"
      offset="0"
      style="stop-color:#0014aa;stop-opacity:1" /><stop
-     id="stop2775"
+     id="stop3593"
      offset="1"
      style="stop-color:#1df7ff;stop-opacity:1" /></linearGradient><filter
    inkscape:collect="always"
-   id="filter3781"
-   x="-0.092733963"
-   width="1.1854679"
-   y="-0.22893881"
-   height="1.4578776"><feGaussianBlur
+   id="filter3827"
+   x="-0.16860721"
+   width="1.3372144"
+   y="-0.41625238"
+   height="1.8325048"><feGaussianBlur
      inkscape:collect="always"
-     stdDeviation="2.6602015"
-     id="feGaussianBlur3783" /></filter></defs>
+     stdDeviation="4.8367301"
+     id="feGaussianBlur3829" /></filter></defs>
 <metadata
    id="metadata3">
 	<ns:sfw>
@@ -4228,7 +4236,7 @@ ZiNW
 </i:pgf>
 <text
    xml:space="preserve"
-   style="font-size:36.03355025999999839px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;overflow:visible;filter:url(#filter3781);font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   style="font-size:36.03355025999999839px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;overflow:visible;filter:url(#filter3827);font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
    x="20.392395"
    y="66.714996"
    id="text2989"
@@ -4238,6 +4246,7 @@ ZiNW
      x="20.392395"
      y="66.714996"
      id="tspan2991">Blur</tspan></text>
+
 
 
 <g
@@ -4267,7 +4276,7 @@ ZiNW
    d="M 13.223,105.94 C 12.66,105.94 12.203,106.396 12.203,106.96 C 12.203,107.524 12.659,107.98 13.223,107.98 L 112.781,107.98 C 113.343,107.98 113.801,107.524 113.801,106.96 C 113.801,106.396 113.344,105.94 112.781,105.94 L 13.223,105.94 z" />
 			</g><path
      sodipodi:nodetypes="ccccccccc"
-     style="opacity:0.73999999;fill:url(#linearGradient2574-847);fill-opacity:1"
+     style="opacity:0.73999999;fill:url(#linearGradient2574-320);fill-opacity:1"
      id="path1926"
      d="M 107.03006,4.0590126 C 93.020327,4.5574802 67.262646,13.229364 35.739595,13.511791 C 23.424635,13.648368 3.8870114,5.321548 3.4115123,17.123755 L 3.4115123,111.19807 C 3.4115123,113.33048 5.124042,115.0638 7.2297059,115.0638 L 120.55296,115.0638 C 122.65862,115.0638 124.37115,113.32931 124.37115,111.19807 L 124.37115,17.123755 C 123.72603,10.312064 120.65959,4.6569066 107.03006,4.0590126 z" /><path
      d="M 7.0045575,22.809448 C 6.3699424,22.809448 5.7551584,23.072752 5.3130269,23.528517 C 4.8708954,23.984278 4.6224154,24.613612 4.6352474,25.252391 C 4.6352474,25.254751 6.2369522,108.68901 6.2369522,108.68901 C 6.2614499,109.98545 7.3253664,111.04102 8.6062623,111.04102 L 119.17291,111.04102 C 120.45614,111.04102 121.51772,109.98427 121.54221,108.68901 L 123.14391,25.254751 C 123.15791,24.612431 122.90945,23.984278 122.4673,23.528517 C 122.02284,23.071571 121.40806,22.809448 120.7746,22.809448 L 7.0045575,22.809448 L 7.0045575,22.809448 z"
@@ -4296,6 +4305,7 @@ ZiNW
      x="3.7936788"
      y="24.254017"
      id="tspan2447">Hello World</tspan></text>
+
 
 
 </svg>
