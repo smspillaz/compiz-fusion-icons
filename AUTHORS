@@ -117,6 +117,7 @@
    * Put
    * Putplus
    * Reflex
+   * Regex
    * Resize
    * Resizeinfo
    * Ring
@@ -141,6 +142,7 @@
    * Tile
    * Toggledeco
    * Trailfocus
+   * Unknown
    * Video
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
