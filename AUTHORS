@@ -59,6 +59,7 @@
    * Addhelper
    * Anaglyph
    * Animation
+   * Animationaddon
    * Animationplus
    * Annotate
    * Atlantis
@@ -80,6 +81,7 @@
    * Dialog
    * Dodge
    * Elements
+   * Ezoom
    * Fade
    * Fadedesktop
    * Fireflies
@@ -139,6 +141,7 @@
    * Tile
    * Toggledeco
    * Trailfocus
+   * Video
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
    * Water
@@ -146,5 +149,6 @@
    * Wiitrack
    * Wizard (oxygen actions/tools-wizard)
    * Wobbly
+   * Zoom
   by some-guy
 ***********
