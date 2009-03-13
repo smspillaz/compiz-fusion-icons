@@ -124,10 +124,13 @@
    * Ring
    * Rotate
    * Rubik
+   * Scale
+   * Scaleaddon
    * Shadows
    * Shelf
    * Shift
    * Showdesktop
+   * Showmouse
    * Showrepaint
    * Session
    * Smartput
@@ -150,6 +153,7 @@
    * Vigo
    * VisualEvent (modified oxygen devices/input-mouse)
    * Water
+   * Widget
    * Wiimote
    * Wiitrack
    * Wizard (oxygen actions/tools-wizard)
