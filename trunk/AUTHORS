@@ -67,7 +67,6 @@
    * Basicblur
    * Bicubic
    * Blur
-   * Commands (is terminal icon from oxygen)
    * Core
    * Crashhandler
    * Cube
@@ -75,7 +74,6 @@
    * Cubedbus
    * Cubemodel
    * Dbus
-   * Debug (oxygen actions/tools-report-bug)
    * Decoration
    * DesktopClick (based on oxygen cursor and oxygen desktop)
    * Dialog
@@ -96,7 +94,6 @@
    * Grid
    * Inotify
    * LazyPointer
-   * Loginout (oxygen actions/system-switch-user)
    * Mag
    * Maximumize
    * Maximumizeplus
@@ -138,7 +135,6 @@
    * Snow
    * Squeeze
    * Stackswitch
-   * Star (oxygen actions/rating)
    * Static
    * Staticswitcher
    * Swap
@@ -156,8 +152,15 @@
    * Widget
    * Wiimote
    * Wiitrack
-   * Wizard (oxygen actions/tools-wizard)
    * Wobbly
    * Zoom
   by some-guy
+ * Icons for:
+   * Commands
+   * Debug
+   * Loginout
+   * Screenshot
+   * Star
+   * Wizard
+  were copied from oxygen icon theme
 ***********
