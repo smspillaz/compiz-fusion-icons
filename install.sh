@@ -10,7 +10,7 @@ if (echo $@ | grep -e --help &>/dev/null); then
 fi
 
 if [ ! -z "`echo $@ | grep -e --prefix=`" ]; then
-	PREFIX="`echo $@ | grep -e --prefix= | sed -e s,--prefix=,,`"
+	PREFIX="`(for a in $@; do echo $a | grep -e --prefix=; done) | sed -e s,--prefix=,,`"
 elif [ -d /usr/share/ccsm/icons/hicolor ]; then
 	PREFIX=/usr
 elif [ -d /usr/local/share/ccsm/icons/hicolor ]; then
