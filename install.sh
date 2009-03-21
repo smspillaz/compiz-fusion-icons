@@ -9,8 +9,8 @@ if (echo $@ | grep -e --help &>/dev/null); then
 	exit 8
 fi
 
-if [ ! -z `echo $@ | grep -e --prefix=` ]; then
-	PREFIX=`echo $@ | grep -e --prefix= | sed -e s,--prefix=,,`
+if [ ! -z "`echo $@ | grep -e --prefix=`" ]; then
+	PREFIX="`echo $@ | grep -e --prefix= | sed -e s,--prefix=,,`"
 elif [ -d /usr/share/ccsm/icons/hicolor ]; then
 	PREFIX=/usr
 elif [ -d /usr/local/share/ccsm/icons/hicolor ]; then
